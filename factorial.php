@@ -1,9 +1,5 @@
 <?php
 
-/* 
-Вычисляем факториал
-*/
-
 $n = 10;
 
 function factorial($n) {
